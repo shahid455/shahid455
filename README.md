@@ -28,8 +28,10 @@ Most of my work is rooted in modern web technologies and Python. Here's a glimps
 
 Some of the projects that I'm proud of:
 
-[![portfolio](https://img.shields.io/github/stars/shahid455/portfolio?style=for-the-badge&label=Portfolio&color=gold)](https://github.com/shahid455/portfolio)  
-[![AI-Game-Zone](https://img.shields.io/github/stars/shahid455/AI-Game-Zone?style=for-the-badge&label=AI%20Game%20Zone&color=gold)](https://github.com/shahid455/AI-Game-Zone)
+[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)
+
+[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)
+
 
 More projects coming soon...
 
