@@ -28,11 +28,10 @@ Most of my work is rooted in modern web technologies and Python. Here's a glimps
 
 Some of the projects that I'm proud of:
 
-[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)  
-🧑‍💻 **Portfolio Website** – A modern, responsive personal portfolio built with TypeScript and React, showcasing my skills, projects, and contact info.
+[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)
 
-[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)  
-🎮 **AI Game Zone** – A creative platform featuring interactive games powered by AI, designed for fun and intelligent gameplay.
+[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)
+
 
 
 
