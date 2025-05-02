@@ -28,9 +28,21 @@ Most of my work is rooted in modern web technologies and Python. Here's a glimps
 
 Some of the projects that I'm proud of:
 
-[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)
+[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=tokyonight)](https://github.com/shahid455/portfolio)   
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)
+---
+
+[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=tokyonight)](https://github.com/shahid455/AI-Game-Zone)  
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 
 
