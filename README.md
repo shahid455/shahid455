@@ -1,6 +1,6 @@
 ![cover](https://raw.githubusercontent.com/shahid455/shahid455/main/banner.png)
 
-# Hello! 👋  
+# Hello! ❤️  
 I am [Shahidul Hasan](https://portfolio-nine-ebon-38.vercel.app/), a CSE (Cybersecurity) student passionate about building meaningful digital experiences and secure, user-friendly systems.
 
 With a keen interest in full-stack development, machine learning, and digital forensics, I’m constantly learning and working on real-world applications to enhance my portfolio. I love creating clean, intuitive UIs while diving deep into backend logic and cybersecurity principles.
@@ -20,7 +20,7 @@ Most of my work is rooted in modern web technologies and Python. Here's a glimps
   </a>
 </div>
 
-> Psst. These dynamic cards come from an awesome project I admire: [gitMyStat!](https://github.com/Rahuletto/gitmystat)
+
 
 ---
 
@@ -28,9 +28,12 @@ Most of my work is rooted in modern web technologies and Python. Here's a glimps
 
 Some of the projects that I'm proud of:
 
-[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)
+[![Shahid's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=portfolio&theme=radical)](https://github.com/shahid455/portfolio)  
+🧑‍💻 **Portfolio Website** – A modern, responsive personal portfolio built with TypeScript and React, showcasing my skills, projects, and contact info.
 
-[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)
+[![AI Game Zone](https://github-readme-stats.vercel.app/api/pin/?username=shahid455&repo=AI-Game-Zone&theme=radical)](https://github.com/shahid455/AI-Game-Zone)  
+🎮 **AI Game Zone** – A creative platform featuring interactive games powered by AI, designed for fun and intelligent gameplay.
+
 
 
 More projects coming soon...
